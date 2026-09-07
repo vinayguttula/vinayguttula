@@ -1,12 +1,12 @@
 # Hi, I'm Meeravinay Guttula 👋
 
-### Senior Python Automation Test Engineer | Selenium | Playwright | API Testing | QA
+### Senior Python Automation Test Engineer | Selenium | Playwright | API Testing | QA | AI/LLM
 
 ---
 
 ## 🧠 About Me
 
-Senior QA Engineer with 4.5+ years of experience in Manual and Automation Testing, specializing in Python-based automation frameworks using Selenium WebDriver, Playwright, and PyTest.
+Senior QA Engineer with 4.6+ years of experience in Manual and Automation Testing, specializing in Python-based automation frameworks using Selenium WebDriver, Playwright, and PyTest.
 
 Experienced in designing end-to-end automation solutions, validating complex enterprise workflows, and ensuring high-quality releases across banking and supply chain domains.
 
